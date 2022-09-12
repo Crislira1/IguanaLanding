@@ -1,0 +1,79 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+}
+
+/* Header */
+h1{
+    padding: 1rem;
+    font-size: 3rem;
+}
+.iguanaheader{
+    width: 100%;
+}
+
+/* Sección parrafos iguana */
+.textoimagen2{
+    width: 80%;
+    margin: auto;
+}
+.textoimagen2 div{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    padding: 2rem;
+    vertical-align: middle;
+}
+.textoimagen2 img{
+    width: 300px;
+    margin-top: 5px;
+    vertical-align: middle;
+}
+.parrafo1{
+    margin-bottom: 1rem;
+}
+
+/* Sección iconos */
+.iconos{
+    background-color: #1E1A13;
+    padding: 5rem 1rem;
+}
+.iconos div{
+    display: inline-block;
+    width: 20%;
+}
+.iconos i{
+    margin: 1.5rem 0;
+}
+h2{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+.iconos p{
+    font-size: 1.5rem;
+}
+
+/* Sección galeria de imagenes */
+.imagenes3 img{
+    width: 300px;
+    height: 200px;
+    padding: 4rem 0.4rem;
+}
+
+/* Pie de pagina */
+footer{
+    background-color: #1E1A13;
+    line-height: 6rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
